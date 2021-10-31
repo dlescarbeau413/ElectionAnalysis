@@ -3,7 +3,7 @@ Challenge 3:
 The purpose of this election audit was to gather information on the counties and the votes. We wanted to see which county had the most votes, the higher percentage of votes and the most voter turnouts. To get all of that information, I reused the code we used to get the total number of votes, the percentage votes and the winning candidate. I created new variables and inserted them in the proper parts of the code to get the correct numbers for the counties. The following is a summary of my analysis:
 
 •	As we saw in the candidate votes, we see that the total number of votes in the election is 369,711 total votes. 
-![](Images/Resources/Total%20Votes.JPG)
+![](
 
 
 
